@@ -342,7 +342,7 @@ void mipsCode::outputNewMidCode()
 		}
 		MidCode.push_back(tempMidCode);
 	}
-	outputHandler output = outputHandler(MidCode, "17231151_孙旭东_优化后.txt");
+	outputHandler output = outputHandler(MidCode, "优化后.txt");
 }
 
 void mipsCode::activeVariable()

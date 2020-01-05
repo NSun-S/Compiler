@@ -1677,6 +1677,6 @@ void syntacticPraser::outputMid()
 		MidCode.push_back(tempMidCode);
 	}
 	//outputHandler output = outputHandler(MidCode, "Mid_"+targetfile);
-	outputHandler output = outputHandler(MidCode, "17231151_孙旭东_优化前.txt");
+	outputHandler output = outputHandler(MidCode, "优化前.txt");
 }
 
