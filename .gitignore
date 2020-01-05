@@ -1,0 +1,8 @@
+*.txt
+*.zip
+test1/
+test2/
+Debug/
+Mips.vcxproj
+Mips.vcxproj.filters
+Mips.vcxproj.user
